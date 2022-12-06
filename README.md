@@ -15,7 +15,7 @@
 
 
 ### Download Requirement for TagUI
-`wget https://github.com/kelaberetiv/TagUI/releases/download/v6.46.0/TagUI_Linux.zip`
+`wget https://github.com/aisingapore/TagUI/releases/download/v6.110.0/TagUI_Linux.zip`
 
 `wget https://corretto.aws/downloads/latest/amazon-corretto-8-x64-linux-jdk.tar.gz`
 
@@ -38,9 +38,9 @@ check chrome already installed in Activities, open it for first time
 
 `tar -zxf amazon-corretto-8-x64-linux-jdk.tar.gz -C /opt/jdk`
 
-`update-alternatives --install /usr/bin/java java /opt/jdk/amazon-corretto-8.312.07.1-linux-x64/bin/java 100`
+`update-alternatives --install /usr/bin/java java /opt/jdk/amazon-corretto-8.352.08.1-linux-x64/bin/java 100`
 
-`update-alternatives --install /usr/bin/javac javac /opt/jdk/amazon-corretto-8.312.07.1-linux-x64/bin/javac 100`
+`update-alternatives --install /usr/bin/javac javac /opt/jdk/amazon-corretto-8.352.08.1-linux-x64/bin/javac 100`
 
 
 ### Install Others Requirement
